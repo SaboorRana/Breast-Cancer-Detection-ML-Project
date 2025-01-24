@@ -1,4 +1,3 @@
-# Breast-Cancer-Detection-ML-Project
 # Breast Cancer Detection
 
 This project implements a machine learning model to detect breast cancer based on diagnostic data. Using logistic regression, the model predicts whether the breast cancer is **malignant** or **benign**. The dataset used is the **Breast Cancer Wisconsin (Diagnostic) Dataset**, which is part of the `sklearn.datasets` module.
